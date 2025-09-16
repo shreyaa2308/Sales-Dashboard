@@ -1,4 +1,5 @@
 Interactive Video Game Sales Dashboard (Tableau)
+
 An interactive Tableau dashboard that explores global video game sales data across genres, platforms, publishers, and years. This project transforms raw sales figures into a visual story of how the gaming industry has evolved, which genres dominate, and which platforms/publishers have driven the market.
 
 KEY FEATURES:
